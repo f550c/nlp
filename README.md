@@ -1,2 +1,2 @@
 # nlp
-nltk-python3
+nltk-python
